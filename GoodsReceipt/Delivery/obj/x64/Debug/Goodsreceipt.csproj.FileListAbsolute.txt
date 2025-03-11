@@ -1,0 +1,164 @@
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Delivery.exe.config
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Data.v4.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.xml
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.xml
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.xml
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.xml
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.xml
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.xml
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.xml
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.AssemblyReference.cache
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.Delivery.resources
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.ListKHL.resources
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.ListNX.resources
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.ListWhs.resources
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.ListBP.resources
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.Properties.Resources.resources
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.GenerateResource.cache
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.exe.licenses
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CoreCompileInputs.cache
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CopyComplete
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\Delivery - Copy - Copy\Delivery\obj\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Delivery.exe.config
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Data.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Goodsreceipt.csproj.AssemblyReference.cache
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.Delivery.resources
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListKHL.resources
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListNX.resources
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListWhs.resources
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListBP.resources
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.Properties.Resources.resources
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Goodsreceipt.csproj.GenerateResource.cache
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.exe.licenses
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CoreCompileInputs.cache
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CopyComplete
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Delivery.exe.config
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Data.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.xml
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.AssemblyReference.cache
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.Delivery.resources
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.ListKHL.resources
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.ListNX.resources
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.ListWhs.resources
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.ListBP.resources
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.Properties.Resources.resources
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.GenerateResource.cache
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.exe.licenses
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CoreCompileInputs.cache
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CopyComplete
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Delivery.exe.config
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Data.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.AssemblyReference.cache
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.Delivery.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.ListKHL.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.ListNX.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.ListWhs.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.ListBP.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.Properties.Resources.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.GenerateResource.cache
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.exe.licenses
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CoreCompileInputs.cache
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CopyComplete
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\Addons\GoodsReceipt - Copy\Delivery\obj\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Delivery.exe.config
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Data.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.ButtonBar.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.CalendarCombo.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Common.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.GridEX.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Ribbon.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.Schedule.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\bin\x64\Debug\Janus.Windows.UI.v4.xml
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Goodsreceipt.csproj.AssemblyReference.cache
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.Delivery.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListKHL.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListNX.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListWhs.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListBP.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.Properties.Resources.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Goodsreceipt.csproj.GenerateResource.cache
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.exe.licenses
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CoreCompileInputs.cache
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Goodsreceipt.csproj.CopyComplete
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.exe
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.pdb
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListBarCode.resources
+C:\Users\foxai\Downloads\Addons\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.BinWhsCode.resources
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.BinWhsCode.resources
+C:\Users\foxai\Downloads\GoodsReceipt\Delivery\obj\x64\Debug\Delivery.ListBarCode.resources
